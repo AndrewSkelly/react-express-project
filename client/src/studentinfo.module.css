@@ -1,0 +1,9 @@
+.StudentInfo {
+    margin: 50px;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: white;
+}
+.text {
+    color: rgb(0, 0, 0)
+}
