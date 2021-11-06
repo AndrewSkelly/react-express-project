@@ -1,13 +1,19 @@
 ## First React Project
-**Andrew Skelly**
+### Andrew Skelly
 
-## App Js
-**Objects**
+
+### **React - Client Side**
+> ### **Objects**
+> 
 > Started by Creating Three Objects that hold different types of values.
+>
 > Accessed these object proberties within the JSX.
 
-**Functions**
+> ### **Functions**
 > Created two functions to add and subtract from the current state value.
 
-**UseState**
+> ### **UseState**
 > Practiced using the useState hook to set the state of the Degree Level.
+``` js
+const [state, setstate] = useState(8)
+ ```
