@@ -17,3 +17,10 @@
 ``` js
 const [state, setstate] = useState(8)
  ```
+ 
+ ### **Current Features**
+``` diff
++ API Calls
+- Database
+- Auth
+```
