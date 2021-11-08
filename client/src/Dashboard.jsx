@@ -26,17 +26,17 @@ function Dashboard() {
 
             <Grid templateColumns="repeat(12, 1fr)" gap={1}>
                 <Box w="100%">
-                    <CircularProgress size="100px" thickness="10px" value={60} color="green.400">
+                    <CircularProgress size="200px" thickness="10px" value={60} color="green.400">
                         <CircularProgressLabel>60%</CircularProgressLabel>
                     </CircularProgress>
                 </Box>
                 <Box w="100%">
-                    <CircularProgress size="100px" thickness="10px" value={34} color="red.400">
+                    <CircularProgress size="200px" thickness="10px" value={34} color="red.400">
                         <CircularProgressLabel>34%</CircularProgressLabel>
                     </CircularProgress>
                 </Box>
                 <Box w="100%">
-                    <CircularProgress size="100px" thickness="10px" value={32} color="yellow.400">
+                    <CircularProgress size="200px" thickness="10px" value={32} color="yellow.400">
                         <CircularProgressLabel>32%</CircularProgressLabel>
                     </CircularProgress>
                 </Box>

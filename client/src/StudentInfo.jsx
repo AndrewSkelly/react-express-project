@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import styles from './studentinfo.module.css';
 
 fetch("http://localhost:4000/hey")
-.then(res => console.log(res.text()))
+.then(res => console.log(res.json()))
 
 let student = {
     student_id: 'X00161363',
